@@ -8,7 +8,7 @@ help: |
 
 bsp:
   component: esp32_s3_korvo_2
-  git: https://github.com/ben-wes/esp-bsp.git
+  git: https://github.com/r1ckp0/esp-bsp.git
   path: bsp/esp32_s3_korvo_2
   version: espd-bsp
   no_ws2812_leds: true
